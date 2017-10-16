@@ -1,3 +1,3 @@
 # Git Talk 2017
 
-Repositorio donde explicamos a usar la herramienta de git.
+Repositorio donde explicamos como usar la herramienta de git.
